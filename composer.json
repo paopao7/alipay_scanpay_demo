@@ -1,0 +1,21 @@
+{
+  "name": "paopao7/alipay_scanpay",
+  "description": "base on alipay scanpay with php",
+  "keywords":["alipay", "thinkphp"],
+  "homepage":"http://itinfor.cn",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "type": "library",
+  "version": "1.0.0",
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "authors": [
+  {
+    "name": "paopao7",
+    "email": "980569038@qq.com"
+  }],
+  "autoload": {
+    "psr-4": {"Scanpay\\": "src"}
+  }
+}

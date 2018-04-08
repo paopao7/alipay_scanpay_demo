@@ -1,5 +1,5 @@
 <?php
-namespace paopao7\alipay_scanpay;
+namespace paopao7\alipay_scanpay_demo;
 class Scanpay{
 	public function check($data){
 		//以下引入地址有做修改
